@@ -1,0 +1,27 @@
+# GPU args
+gpu: "0"
+multi_gpu: null
+
+# Training args
+model_name: FLOT
+seed: 1
+batch_size: 1
+epochs: 50
+learning_rate: 0.001
+pretrain: null
+weight_decay: 0.0001
+evaluate: False
+val_batch_size: 1
+
+# Data args
+num_points: 8192
+dataset: FT3D_s_sv
+data_root: /path/to/data
+
+
+
+
+
+
+
+

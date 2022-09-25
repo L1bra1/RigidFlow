@@ -1,0 +1,22 @@
+# GPU args
+gpu: "1"
+multi_gpu: null
+
+# Test args
+model_name: FLOT
+seed: 1
+batch_size: 1
+pretrain: ./pretrained/FLOT_2048.pth
+evaluate: True
+resume: True
+num_test: 10 # Evaluate model multiple times to obtain stable metric results
+
+# Data args
+num_points: 2048
+dataset: KITTI_o_test
+data_root: /path/to/data
+
+
+
+
+
