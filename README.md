@@ -2,6 +2,10 @@
 This is the PyTorch code for [RigidFlow: Self-Supervised Scene Flow Learning on Point Clouds by Local Rigidity Prior (CVPR2022)](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_RigidFlow_Self-Supervised_Scene_Flow_Learning_on_Point_Clouds_by_Local_CVPR_2022_paper.pdf).
 The code is created by Ruibo Li (ruibo001@e.ntu.edu.sg).
 
+## Updates
+We release an extended version of RigidFlow on [Self-Supervised 3D Scene Flow Estimation and Motion Prediction using Local Rigidity Prior] (https://arxiv.org/abs/2310.11284).
+The code and models of this extended version will be made publicly available.
+
 ## Prerequisities
 * Python 3.6.13
 * NVIDIA GPU + CUDA CuDNN
