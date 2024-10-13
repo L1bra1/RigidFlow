@@ -6,7 +6,7 @@ The code is created by Ruibo Li (ruibo001@e.ntu.edu.sg).
 We release an extended version of RigidFlow on [Self-Supervised 3D Scene Flow Estimation and Motion Prediction using Local Rigidity Prior (T-PAMI 2024)](https://www.computer.org/csdl/journal/tp/5555/01/10530455/1WWdXdJBbTW).
 You can also check out the arXiv version at  [RigidFlowPP-arXiv](https://arxiv.org/abs/2310.11284).
 
-The code for self-supervised scene flow estimation can be found in [RigidFlowPP](https://github.com/L1bra1/RigidFlowPP), while the code for self-supervised motion prediction is available in [RigidFlowPP-Motion](https://github.com/L1bra1/RigidFlowPP-Motion)
+The code for self-supervised scene flow estimation can be found in [RigidFlowPP](https://github.com/L1bra1/RigidFlowPP), while the code for self-supervised motion prediction is available in [RigidFlowPP-Motion](https://github.com/L1bra1/RigidFlowPP-Motion).
 
 
 ## Prerequisities
