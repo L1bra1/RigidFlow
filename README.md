@@ -122,6 +122,15 @@ If you find this code useful, please cite our paper:
   year={2022}
 }
 ```
+```
+@article{li2024self,
+  title={Self-Supervised 3D Scene Flow Estimation and Motion Prediction using Local Rigidity Prior},
+  author={Li, Ruibo and Zhang, Chi and Wang, Zhe and Shen, Chunhua and Lin, Guosheng},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2024},
+  publisher={IEEE}
+}
+```
 
 ## Acknowledgement
 
